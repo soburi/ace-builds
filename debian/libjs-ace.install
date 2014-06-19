@@ -1,0 +1,4 @@
+src				/usr/share/javascript/ace/
+src-min				/usr/share/javascript/ace/
+src-min-noconflict		/usr/share/javascript/ace/
+src-noconflict			/usr/share/javascript/ace/

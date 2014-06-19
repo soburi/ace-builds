@@ -1,0 +1,20 @@
+Source: ace-builds
+Section: web
+Priority: optional
+Maintainer: soburi <soburi@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Homepage: http://ace.c9.io/
+#Vcs-Git: git://git.debian.org/collab-maint/ace-builds.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/ace-builds.git;a=summary
+
+Package: libjs-ace
+Architecture: all
+Depends: ${misc:Depends}
+Description: Ajax.org Cloud9 Editor library.
+ Ace is an embeddable code editor written in JavaScript.
+ It matches the features and performance of native editors
+ such as Sublime, Vim and TextMate.
+ It can be easily embedded in any web page and JavaScript application.
+ Ace is maintained as the primary editor for Cloud9 IDE and is
+ the successor of the Mozilla Skywriter (Bespin) project.
