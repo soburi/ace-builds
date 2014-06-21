@@ -1,3 +1,9 @@
+ace-builds (1.1.3-1ppa1) trusty; urgency=medium
+
+  * release 1.1.3-1ppa1
+
+ -- soburi <soburi@gmail.com>  Sat, 21 Jun 2014 09:46:05 +0900
+
 ace-builds (1.1.3-1) unstable; urgency=medium
 
   * update v1.1.3.
